@@ -97,3 +97,4 @@ plt.xticks(rotation=0)
 plt.tight_layout()
 plt.savefig("distribusi_kelas.png", dpi=180)
 plt.show()
+ 
